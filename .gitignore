@@ -1,0 +1,29 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Vector Store & Local Data Cache
+chroma_db/
+data/
+*.sqlite3
+*.csv
+
+# Phoenix & Tracing
+phoenix/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
