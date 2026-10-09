@@ -122,5 +122,3 @@ streamlit run app.py
 ```
 
 ---
-
-*Built with ❤️ from scratch by [Aniket Lad](https://github.com/The-Aniketlad) & Lucy.*
