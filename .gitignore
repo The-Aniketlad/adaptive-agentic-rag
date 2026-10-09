@@ -23,8 +23,9 @@ data/
 # Phoenix & Tracing
 phoenix/
 
-# Documentation & Roadmaps (Ignored until final release)
-*.md
+# Internal roadmaps (only README.md is published)
+agentic-rag-roadmap.md
+.gitigonre
 
 # OS / IDE
 .vscode/
